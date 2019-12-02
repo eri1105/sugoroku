@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * すごろくチャレンジ
+ * すごろくチャレンジ( ..)φメモメモ
  * @author 3d167
  *
  */
